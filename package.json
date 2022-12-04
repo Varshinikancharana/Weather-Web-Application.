@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.2.1",
+    "i": "^0.3.7",
+    "is-palindrome": "^0.3.0",
+    "key": "^0.1.11",
+    "node-telegram-bot-api": "^0.59.0",
+    "npm": "^8.19.3",
+    "num-is-even-or-odd": "^1.0.6",
+    "palindrome-plus": "^1.0.2"
+  }
+}
